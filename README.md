@@ -1,7 +1,4 @@
 A simple Sonic the Hedgehog 3 A.I.R. mod that removes all spikes, Badniks, and main hazards in general from the base game, or anything that will tremendously slow you down.
-The Full version is recommended if you want to play the game peacefully.
-S3 version recommended only if you want AIZ1 - LBZ2 empty.
-SK version recommended only if you want MHZ1 - DDZ empty.
-
-Some of the hazards in the game are left in only because they are necessary for game progression!
-If you notice an unnecessary Badnik or spike left in the game, let me know!
+It does not remove ALL hazards, only the most common ones / major ones, others have been left in because they are either necessary for game progression or makes the game less detailed, such as the lava in Lava Reef Zone.
+This does not require the most updated version of Sonic 3 A.I.R., rather, any of them that use "leveldata.json" inside (mod) > rawdata > leveldata.json.
+I recommend extracting the folder then putting it inside your mods folder rather than leaving it just as a .zip, but it works. Compatible with the AIRdrop mod manager tool.
